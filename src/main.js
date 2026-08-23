@@ -8,5 +8,4 @@ navBtn.addEventListener("click", () => {
 
   menuBar.classList.toggle("hidden");
   menuBar.classList.toggle("flex");
-  console.log("W");
 });
